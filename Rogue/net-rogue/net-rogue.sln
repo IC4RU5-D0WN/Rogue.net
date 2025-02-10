@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net-rogue", "net-rogue.csproj", "{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RayGuiCreator", "..\..\..\..\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\RTSGIT\RayGuiCreator\RayGuiCreator\RayGuiCreator.csproj", "{95181CA1-6D50-45CC-8F13-9C814C64FCF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurboMapReader", "..\..\..\..\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\RTSGIT\TurboMapReader\TurboMapReader.csproj", "{DACF5728-D6A6-4F72-A757-A3CA157EB209}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnemyEDITOR", "..\..\..\..\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\TiianProjektiJokuWPF\TiianProjektiJokuWPF\EnemyEDITOR.csproj", "{576075E6-45F1-4184-9FFA-A9A3B9EF08FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95181CA1-6D50-45CC-8F13-9C814C64FCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95181CA1-6D50-45CC-8F13-9C814C64FCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95181CA1-6D50-45CC-8F13-9C814C64FCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95181CA1-6D50-45CC-8F13-9C814C64FCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACF5728-D6A6-4F72-A757-A3CA157EB209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACF5728-D6A6-4F72-A757-A3CA157EB209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACF5728-D6A6-4F72-A757-A3CA157EB209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACF5728-D6A6-4F72-A757-A3CA157EB209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576075E6-45F1-4184-9FFA-A9A3B9EF08FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576075E6-45F1-4184-9FFA-A9A3B9EF08FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576075E6-45F1-4184-9FFA-A9A3B9EF08FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576075E6-45F1-4184-9FFA-A9A3B9EF08FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E803D1-6C06-4E47-8102-72323AE738EF}
+	EndGlobalSection
+EndGlobal

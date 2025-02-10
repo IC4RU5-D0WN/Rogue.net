@@ -1,0 +1,13 @@
+C:\Users\ICARUS\Desktop\net-rogue.pdb
+C:\Users\ICARUS\Desktop\Textures\MINISHREK.jpg
+C:\Users\ICARUS\Desktop\Textures\MINISHREK.png
+C:\Users\ICARUS\Desktop\Maps\mapfile.json
+C:\Users\ICARUS\Desktop\Maps\mapfile_layers.json
+C:\Users\ICARUS\Desktop\Maps\tiledmap.tmj
+C:\Users\ICARUS\Desktop\Maps\tiny dungeon.tsx
+C:\Users\ICARUS\Desktop\raylib.dll
+C:\Users\ICARUS\Desktop\raylib.exp
+C:\Users\ICARUS\Desktop\raylib.lib
+C:\Users\ICARUS\Desktop\raylib.pdb
+C:\Users\ICARUS\Desktop\TurboMapReader.pdb
+C:\Users\ICARUS\Desktop\net-rogue.exe

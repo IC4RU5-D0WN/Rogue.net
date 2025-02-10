@@ -1,0 +1,7 @@
+C:\Users\ICARUS\Desktop\net-rogue.exe
+C:\Users\ICARUS\Desktop\Maps\mapfile.json
+C:\Users\ICARUS\Desktop\net-rogue.dll
+C:\Users\ICARUS\Desktop\net-rogue.deps.json
+C:\Users\ICARUS\Desktop\net-rogue.runtimeconfig.json
+C:\Users\ICARUS\Desktop\net-rogue.pdb
+C:\Users\ICARUS\Desktop\Newtonsoft.Json.dll

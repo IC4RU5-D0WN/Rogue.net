@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using ZeroElectric.Vinculum;
 using RayGuiCreator;
 
+
+//TÄMÄ ON ASETUKSET MENU
+
 namespace net_rogue
 {
     internal class OptionsMenu

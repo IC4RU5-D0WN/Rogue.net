@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\",
+  "WorkspaceRootPath": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\maps\\tiledmap.tmj||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maps\\tiledmap.tmj||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\maps\\mapfile_layers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maps\\mapfile_layers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\maplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\maploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\maps\\mapfile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maps\\mapfile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\net-rogue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\maps\\tiledmap.tmj||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maps\\tiledmap.tmj||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\maps\\mapfile_layers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maps\\mapfile_layers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\maplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\maploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\maps\\mapfile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:maps\\mapfile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\net-rogue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:net-rogue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\tiedostot\\rogue-git\\net-rogue-folder\\net-rogue\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|c:\\rogue.net\\rogue.net\\rogue\\net-rogue\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC60A04-B0AA-49F2-A6D7-11195DF68C1C}|net-rogue.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,28 +66,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Map.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Map.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Map.cs",
               "RelativeDocumentMoniker": "Map.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Map.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Map.cs",
               "RelativeToolTip": "Map.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T21:32:15.547Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Program.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Program.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,11 +97,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "tiledmap.tmj",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Maps\\tiledmap.tmj",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Maps\\tiledmap.tmj",
               "RelativeDocumentMoniker": "Maps\\tiledmap.tmj",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Maps\\tiledmap.tmj",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Maps\\tiledmap.tmj",
               "RelativeToolTip": "Maps\\tiledmap.tmj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -108,11 +109,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "mapfile_layers.json",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Maps\\mapfile_layers.json",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Maps\\mapfile_layers.json",
               "RelativeDocumentMoniker": "Maps\\mapfile_layers.json",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Maps\\mapfile_layers.json",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Maps\\mapfile_layers.json",
               "RelativeToolTip": "Maps\\mapfile_layers.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -120,48 +121,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "OptionsMenu.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\OptionsMenu.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\OptionsMenu.cs",
               "RelativeDocumentMoniker": "OptionsMenu.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\OptionsMenu.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\OptionsMenu.cs",
               "RelativeToolTip": "OptionsMenu.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:47:25.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PauseMenu.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\PauseMenu.cs",
-              "RelativeDocumentMoniker": "PauseMenu.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\PauseMenu.cs",
-              "RelativeToolTip": "PauseMenu.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:47:01.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerCharacter.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\PlayerCharacter.cs",
-              "RelativeDocumentMoniker": "PlayerCharacter.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\PlayerCharacter.cs",
-              "RelativeToolTip": "PlayerCharacter.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:32:21.429Z",
+              "WhenOpened": "2025-01-13T10:47:25.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "PauseMenu.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\PauseMenu.cs",
+              "RelativeToolTip": "PauseMenu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:47:01.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCharacter.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\PlayerCharacter.cs",
+              "RelativeDocumentMoniker": "PlayerCharacter.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\PlayerCharacter.cs",
+              "RelativeToolTip": "PlayerCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:32:21.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MapLoader.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\MapLoader.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\MapLoader.cs",
               "RelativeDocumentMoniker": "MapLoader.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\MapLoader.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\MapLoader.cs",
               "RelativeToolTip": "MapLoader.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MapLayer.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\MapLayer.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\MapLayer.cs",
               "RelativeDocumentMoniker": "MapLayer.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\MapLayer.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\MapLayer.cs",
               "RelativeToolTip": "MapLayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Game.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Game.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Game.cs",
               "RelativeToolTip": "Game.cs",
               "ViewState": "AgIAAOMAAAAAAAAAAAAgwP4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "mapfile.json",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Maps\\mapfile.json",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Maps\\mapfile.json",
               "RelativeDocumentMoniker": "Maps\\mapfile.json",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Maps\\mapfile.json",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Maps\\mapfile.json",
               "RelativeToolTip": "Maps\\mapfile.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -207,9 +209,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "net-rogue.csproj",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\net-rogue.csproj",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\net-rogue.csproj",
               "RelativeDocumentMoniker": "net-rogue.csproj",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\net-rogue.csproj",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\net-rogue.csproj",
               "RelativeToolTip": "net-rogue.csproj",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwC0AAACXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -219,9 +221,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Item.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Item.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Item.cs",
               "RelativeToolTip": "Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Enemy.cs",
+              "DocumentMoniker": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Enemy.cs",
               "RelativeDocumentMoniker": "Enemy.cs",
-              "ToolTip": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\Enemy.cs",
+              "ToolTip": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\Enemy.cs",
               "RelativeToolTip": "Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

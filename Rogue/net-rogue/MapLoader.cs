@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using TurboMapReader;
 
+// KARTAN LATAAJA
+
 namespace net_rogue
 {
     internal class MapLoader
@@ -32,16 +34,6 @@ namespace net_rogue
             // Tallenna taso kenttään
             rogueMap.layers[0] = myGroundLayer;
 
-            //for(int i=0; i < myGroundLayer.data.Length; i++ )
-            //{
-            //    data[i];
-            //}
-
-            //foreach(int id in data)
-            //{
-            //    i
-            //}
-            // tason "enemies" tiedot...
             howManyTiles = enemiesLayer.data.Length;
             int[] enemiesTiles = enemiesLayer.data;
 

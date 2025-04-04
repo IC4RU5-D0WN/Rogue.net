@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// MAPIN KOKO
+
 namespace net_rogue
 {
     internal class MapLayer

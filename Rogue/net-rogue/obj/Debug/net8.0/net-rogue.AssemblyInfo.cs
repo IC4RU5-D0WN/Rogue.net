@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("net-rogue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7df2d1f9fbc41eef057b87f1bbd1ba347214cfa0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33a4c5e44795ba0d203aec35d392b548ac47b457")]
 [assembly: System.Reflection.AssemblyProductAttribute("net-rogue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("net-rogue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

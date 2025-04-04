@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\net-rogue.csproj": {}
+    "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\net-rogue.csproj": {}
   },
   "projects": {
-    "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\net-rogue.csproj": {
+    "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\net-rogue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\net-rogue.csproj",
+        "projectUniqueName": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\net-rogue.csproj",
         "projectName": "net-rogue",
-        "projectPath": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\net-rogue.csproj",
+        "projectPath": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\net-rogue.csproj",
         "packagesPath": "C:\\Users\\s2200915\\.nuget\\packages\\",
-        "outputPath": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\obj\\",
+        "outputPath": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s2200915\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,6 +9,9 @@ using System.Threading;
 using System.Threading.Tasks;
 using ZeroElectric.Vinculum;
 
+
+// PELAAJAN HAHMON KOODI
+
 namespace net_rogue
 {
     internal class PlayerCharacter

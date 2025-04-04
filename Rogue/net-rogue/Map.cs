@@ -6,6 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using ZeroElectric.Vinculum;
 
+//MAPPIIN LIITTYVÄT ASIAT KUTEN KOKO JA TEXTUURIT YMS
+
 namespace net_rogue
 {
     internal class Map

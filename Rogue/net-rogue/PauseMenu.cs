@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using ZeroElectric.Vinculum;
 using RayGuiCreator;
 
+
+//TÄMÄ ON PAUSE MENU
+
 namespace net_rogue
 {
     internal class PauseMenu

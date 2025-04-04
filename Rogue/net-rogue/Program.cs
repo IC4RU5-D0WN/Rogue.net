@@ -1,6 +1,6 @@
 ﻿using System.Numerics;
 using net_rogue;
-
+//OHJELMA STARTTAA
 class Program
 {
     static void Main()

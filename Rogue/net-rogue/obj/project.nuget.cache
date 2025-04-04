@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kLj0FDOnBW4=",
+  "dgSpecHash": "rBomjmAq8us=",
   "success": true,
-  "projectFilePath": "C:\\Tiedostot\\Rogue-git\\net-rogue-folder\\net-rogue\\net-rogue.csproj",
+  "projectFilePath": "C:\\Rogue.net\\Rogue.net\\Rogue\\net-rogue\\net-rogue.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s2200915\\.nuget\\packages\\communitytoolkit.highperformance\\8.1.0\\communitytoolkit.highperformance.8.1.0.nupkg.sha512",
     "C:\\Users\\s2200915\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
